@@ -41,7 +41,7 @@
     "x-asena": "^1.0.1"
   },
   "scripts": {
-    "start": "pm2 start node.index.js --name x-asena"
+    "start": "pm2 start node index.js --name x-asena"
   },
   "repository": {
     "type": "git",
